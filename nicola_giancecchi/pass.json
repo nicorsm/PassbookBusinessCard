@@ -4,7 +4,7 @@
     "serialNumber": "0",
     "teamIdentifier": "NZZZ3V7593",
     "barcode": {
-        "message": "https://s3-eu-west-1.amazonaws.com/mrapps-passbook/nicola_giancecchi.pkpass",
+        "message": "https://rawgit.com/nicorsm/PassbookBusinessCard/master/nicola_giancecchi.pkpass",
         "format": "PKBarcodeFormatPDF417",
         "messageEncoding": "iso-8859-1"
     },
