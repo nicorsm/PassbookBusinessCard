@@ -1,0 +1,84 @@
+{
+    "formatVersion": 1,
+    "passTypeIdentifier": "pass.com.mr-apps.BusinessCard",
+    "serialNumber": "0",
+    "teamIdentifier": "NZZZ3V7593",
+    "barcode": {
+        "message": "https://s3-eu-west-1.amazonaws.com/mrapps-passbook/nicola_giancecchi.pkpass",
+        "format": "PKBarcodeFormatPDF417",
+        "messageEncoding": "iso-8859-1"
+    },
+    "organizationName": "Mr. APPs srl",
+    "description": "Nicola Giancecchi's Card",
+    "foregroundColor": "rgb(156,0,16)",
+    "backgroundColor": "rgb(255,255,255)",
+    "generic": {
+        "primaryFields": [
+            {
+                "key": "name",
+                "value": "Nicola\nGiancecchi"
+			}
+            ],
+            "secondaryFields": [
+                {
+                    "key": "title",
+                    "label": "TITLE",
+                    "value": "Mobile Software Engineer"
+                }
+            ],
+            "auxiliaryFields": [
+            {
+                    "key": "web",
+                    "label": "WEB",
+                    "value": "mr-apps.com"
+                },
+                {
+                    "key": "email",
+                    "label": "EMAIL",
+                    "value": "nicola@mr-apps.com"
+                },
+                {
+                    "key": "social",
+                    "label": "SOCIAL",
+                    "value": "@nicorsm"
+                }
+            ],
+            "backFields": [
+                {
+                	"key":"nice",
+                	"label":"",
+                	"value":"Nice to meet you!"
+                },
+                {
+                	"key":"name",
+                	"label":"NAME",
+                	"value":"Nicola Giancecchi"
+                },
+                {
+                	"key":"age",
+                	"label":"AGE",
+                	"value":"22"
+                },
+                {
+                	"key":"from",
+                	"label":"FROM",
+                	"value":"Domagnano\nRepublic of San Marino - SMR"
+                },
+                {
+                	"key":"contact",
+                	"label":"CONTACT INFO",
+                	"value":"Work: +378 0549 999555\nMobile: +39 339 2598939\nWeb: www.mr-apps.com\nMail: nicola@mr-apps.com\nSkype: nicolagiancecchi\nFacebook: fb.com/nicorsm\nTwitter: twitter.com/nicorsm\nInstagram: instagram.com/nicorsm\nLinkedIn: linkedin.com/in/nicolagiancecchi"
+                },
+                {
+                	"key":"workingat",
+                	"label":"WORKING AT",
+                	"value":"Mr. APPs - App & Webdesign\nMobile Software Engineer\nVia Biagio di Santolino, 19\n47892 Acquaviva (SMR)\n+378 0549 999555\nwww.mr-apps.com\ninfo@mr-apps.com"
+                },
+                {
+                	"key":"studying",
+                	"label":"STUDIED",
+                	"value":"Bachelor of Science, Computer Science & Engineering\nAlma Mater Studiorum Università di Bologna - Cesena Campus\nwww.isi.polocesena.unibo.it"
+                }
+            ]
+        }
+    }
